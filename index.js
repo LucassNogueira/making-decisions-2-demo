@@ -31,10 +31,11 @@ let backpack2 = backpack.splice(3,3);
 
 
 for(let i = 0; i < 3; i++) {
-    console.log(backpack[i])
+    console.log(backpack[i]);
 }
-console.log('-------------------')
+console.log('-------------------');
 for(let i = 0; i < backpack2.length; i++) {
-    console.log(backpack2[i])
+    console.log(backpack2[i]);
 }
 
+console.log('is it lunch time yet');
